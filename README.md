@@ -1,2 +1,2 @@
-# nextgen-prompts
-"AI video prompt sharing site"
+# NextGen Prompts
+A futuristic AI prompt sharing platform.
